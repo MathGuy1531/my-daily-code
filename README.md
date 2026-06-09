@@ -1,2 +1,2 @@
 # my-daily-code
-all my code
+code journey
