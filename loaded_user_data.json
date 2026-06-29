@@ -1,8 +1,65 @@
 {
-      "has": 13.0,
-      "kjbdkjfb": 8939713.0,
-      "banna": 12.0,
-      "grapess": 18.0,
-      "water": 10.0,
-      "coke": 2000.0
+      "bannna": {
+            "amount": 100.0,
+            "category": "food"
+      },
+      "apple": {
+            "amount": 122.0,
+            "category": "food"
+      },
+      "bannaa": {
+            "amount": 9999.0,
+            "category": "food"
+      },
+      "grapes": {
+            "amount": 353.0,
+            "category": "food"
+      },
+      "bannnana": {
+            "amount": 200.0,
+            "category": "food"
+      },
+      "plastic rubber": {
+            "amount": 300.0,
+            "category": "dating"
+      },
+      "bannana": {
+            "amount": 100.0,
+            "category": "food"
+      },
+      "doted rubber": {
+            "amount": 2000.0,
+            "category": "dating"
+      },
+      "2026-06-29": {
+            "bannana": {
+                  "amount": 3000.0,
+                  "category": "food",
+                  "date": "2026-06-29"
+            },
+            "apple": {
+                  "amount": 30000.0,
+                  "category": "food",
+                  "date": "2026-06-29"
+            }
+      },
+      "-2": {
+            "magno": {
+                  "amount": 500.0,
+                  "category": "food",
+                  "date": -2
+            }
+      },
+      "-2": {
+            "mango": {
+                  "amount": 500.0,
+                  "category": "food",
+                  "date": -2
+            },
+            "pomogranade": {
+                  "amount": 200.0,
+                  "category": "food",
+                  "date": -2
+            }
+      }
 }
